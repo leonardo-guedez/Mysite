@@ -1,49 +1,43 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include quantitative corpus linguistics with R, learner corpus research, and second language psycholinguistics.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. student in Second Language Studies
+    institution: Michigan State University
+    year: 2025 expected
+  - course: Master of Arts in Teaching English as a Second Language (With Distinction)
+    institution: Northern Arizona University
+    year: 2020
+  - course: Master's Degree in Applied Linguistics
+    institution: Universidad Simón Bolívar, Venezuela
+    year: 2017
+  - course: B.A. in English Teaching (Magna Cum Laude)
+    institution: Universidad Pedagógica Experimental Libertador, Venezuela
+    year: 2013
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantitative corpus linguistics with R
+- Learner corpus research
+- Second language psycholinguistics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Michigan State University
+  url: https://msu.edu/
+role: Ph.D. student in Second Language Studies
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/eleguedez
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lguedez/
 superuser: true
-title: Nelson Bighetti
+title: Leonardo A. Guédez
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leonardo Guédez is a Ph.D. student in Second Language Studies at Michigan State University. His research interests include quantitative corpus linguistics with R, learner corpus research, and second language psycholinguistics. He is an active member of the [Second Language Studies Corpus Lab](https://corpus.cal.msu.edu/), which is co-directed by Dr. Sandra Deshors and Dr. Charlene Polio.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
