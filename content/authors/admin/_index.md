@@ -3,16 +3,16 @@ bio: My research interests include quantitative corpus linguistics with R, learn
 education:
   courses:
   - course: Ph.D. in Second Language Studies
-    institution: Michigan State University
+    institution: Michigan State University (United States)
     year: 2025 expected
   - course: Master of Arts in Teaching English as a Second Language (With Distinction)
-    institution: Northern Arizona University
+    institution: Northern Arizona University (United States)
     year: 2020
   - course: Master's Degree in Applied Linguistics
-    institution: Universidad Simón Bolívar, Venezuela
+    institution: Universidad Simón Bolívar (Venezuela)
     year: 2017
   - course: B.A. in English Teaching (Magna Cum Laude)
-    institution: Universidad Pedagógica Experimental Libertador, Venezuela
+    institution: Universidad Pedagógica Experimental Libertador (Venezuela)
     year: 2013
 email: ""
 highlight_name: false
