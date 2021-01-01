@@ -2,7 +2,7 @@
 bio: My research interests include quantitative corpus linguistics with R, learner corpus research, and second language psycholinguistics.
 education:
   courses:
-  - course: Ph.D. student in Second Language Studies
+  - course: Ph.D. in Second Language Studies
     institution: Michigan State University
     year: 2025 expected
   - course: Master of Arts in Teaching English as a Second Language (With Distinction)
