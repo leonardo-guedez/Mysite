@@ -1,5 +1,4 @@
 ---
-bio: My research interests include quantitative corpus linguistics with R, learner corpus research, and second language psycholinguistics.
 education:
   courses:
   - course: Ph.D. in Second Language Studies
@@ -37,7 +36,6 @@ social:
 superuser: true
 title: Leonardo A. Guédez
 ---
-
-Leonardo Guédez is a Ph.D. student in Second Language Studies at Michigan State University. His research interests include quantitative corpus linguistics with R, learner corpus research, and second language psycholinguistics. He is an active member of the [Second Language Studies Corpus Lab](https://corpus.cal.msu.edu/), which is co-directed by Dr. Sandra Deshors and Dr. Charlene Polio.
+I am a Ph.D. student in Second Language Studies at Michigan State University. My research interests include quantitative corpus linguistics with R, learner corpus research, and second language psycholinguistics. I am also an active member of the [Second Language Studies Corpus Lab](https://corpus.cal.msu.edu/), which is co-directed by Dr. Sandra Deshors and Dr. Charlene Polio.
 
 
