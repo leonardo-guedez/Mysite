@@ -2,10 +2,10 @@
 education:
   courses:
   - course: Ph.D. in Second Language Studies
-    institution: Michigan State University (United States)
+    institution: Michigan State University (US)
     year: 2025 expected
   - course: Master of Arts in Teaching English as a Second Language (With Distinction)
-    institution: Northern Arizona University (United States)
+    institution: Northern Arizona University (US)
     year: 2020
   - course: Master's Degree in Applied Linguistics
     institution: Universidad Simón Bolívar (Venezuela)
