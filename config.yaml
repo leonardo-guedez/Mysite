@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Leonardo A. Guédez
-baseurl: 'https://leonardo-guedez.netlify.app/'
+baseurl: 'https://leonardo-guedez.rbind.io/'
 copyright: '&copy; Leonardo A. Guédez {year}'
 enableGitInfo: no
 defaultContentLanguage: en
