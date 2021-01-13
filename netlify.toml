@@ -1,6 +1,6 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  command = "npm run build && cp _redirects dist/_redirects"
+  publish = "dist"
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
