@@ -1,6 +1,6 @@
 [build]
-  command = "npm run build && cp _redirects build/_redirects"
-  publish = "dist"
+  command = "npm run build && cp _redirects public/_redirects"
+  publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
